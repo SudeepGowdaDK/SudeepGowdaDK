@@ -1,6 +1,5 @@
 .
 
-🎉 FINAL GitHub Profile README (Copy This Directly)
 
 🚀 Hey, I'm <span style="color:#00FFFF;">Sudeep Gowda D K</span>
 
